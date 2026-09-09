@@ -38,7 +38,7 @@ AI-based computer vision project for detecting and analyzing aircraft in remote 
 
 **Key areas:** Object Detection • Computer Vision • YOLO11n • Remote Sensing • Model Compression • Cross-Dataset Validation • Docker Deployment
 
-💻 **[View Project on GitHub]([https://github.com/vmpavanireddy](https://github.com/vmpavanireddy/Aircraft-Detection-Framework))**
+💻 **[View Project on GitHub]((https://github.com/vmpavanireddy/Aircraft-Detection-Framework))**
 
 ---
 
