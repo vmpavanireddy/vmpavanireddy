@@ -18,7 +18,7 @@
 
 2D survival game developed as a **Unity & C# learning project** through guided learning and hands-on experimentation.
 
-![Splashy Adventures](./media/splashy.png)
+![Splashy Adventures](./splashy.png)
 
 **Key areas:** Player movement • Dash mechanics • Enemy spawning • Collision detection • Health system • Progressive difficulty • Rigidbody2D • Animations • Audio • Particle effects • Unity UI
 
@@ -38,7 +38,7 @@ AI-based computer vision project for detecting and analyzing aircraft in remote 
 
 **Key areas:** Object Detection • Computer Vision • YOLO11n • Remote Sensing • Model Compression • Cross-Dataset Validation • Docker Deployment
 
-💻 **[View Project on GitHub]((https://github.com/vmpavanireddy/Aircraft-Detection-Framework))**
+💻 **[View Project on GitHub](https://github.com/vmpavanireddy/Aircraft-Detection-Framework)**
 
 ---
 
